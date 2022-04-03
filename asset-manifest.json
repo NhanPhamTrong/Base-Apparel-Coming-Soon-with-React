@@ -1,10 +1,18 @@
 {
   "files": {
-    "main.js": "/Base-Apparel-Coming-Soon-with-React/static/js/main.aa9b4377.js",
+    "main.css": "/Base-Apparel-Coming-Soon-with-React/static/css/main.f4759e65.css",
+    "main.js": "/Base-Apparel-Coming-Soon-with-React/static/js/main.2b5ff7af.js",
+    "static/media/hero-desktop.jpg": "/Base-Apparel-Coming-Soon-with-React/static/media/hero-desktop.659bc9a7221d265fe28f.jpg",
+    "static/media/hero-mobile.jpg": "/Base-Apparel-Coming-Soon-with-React/static/media/hero-mobile.1afd055b71b78462d388.jpg",
+    "static/media/logo.svg": "/Base-Apparel-Coming-Soon-with-React/static/media/logo.bfe35add16fb8c010b02.svg",
     "index.html": "/Base-Apparel-Coming-Soon-with-React/index.html",
-    "main.aa9b4377.js.map": "/Base-Apparel-Coming-Soon-with-React/static/js/main.aa9b4377.js.map"
+    "static/media/icon-error.svg": "/Base-Apparel-Coming-Soon-with-React/static/media/icon-error.77009af74a9c193a398a.svg",
+    "static/media/icon-arrow.svg": "/Base-Apparel-Coming-Soon-with-React/static/media/icon-arrow.4b3d2d93cd838720beda.svg",
+    "main.f4759e65.css.map": "/Base-Apparel-Coming-Soon-with-React/static/css/main.f4759e65.css.map",
+    "main.2b5ff7af.js.map": "/Base-Apparel-Coming-Soon-with-React/static/js/main.2b5ff7af.js.map"
   },
   "entrypoints": [
-    "static/js/main.aa9b4377.js"
+    "static/css/main.f4759e65.css",
+    "static/js/main.2b5ff7af.js"
   ]
 }
