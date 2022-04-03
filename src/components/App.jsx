@@ -4,10 +4,10 @@ import Footer from "./Footer";
 
 function App() {
     return (
-        <div>
+        <React.StrictMode>
             <Main />
             <Footer />
-        </div>
+        </React.StrictMode>
     );
 }
 
