@@ -1,0 +1,32 @@
+body {
+    font-family: 'Josefin Sans', sans-serif;
+
+    .container {
+        width: 315px;
+        margin: 0 auto;
+    }
+}
+
+@media only screen and (min-width: 600px) {
+    body {
+        .container {
+            width: 552px;
+        }
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    body {
+        .container {
+            width: 720px;
+        }
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    body {
+        .container {
+            width: 472px;
+        }
+    }
+}
